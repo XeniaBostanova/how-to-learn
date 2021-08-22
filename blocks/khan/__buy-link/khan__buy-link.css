@@ -6,9 +6,10 @@
   margin: 0;
   opacity: 1;
   cursor: pointer;
+  transition: opacity .5s;
+  text-decoration: none;
 }
 
 .khan__buy-link:hover {
   opacity: .6;
-  transition: opacity .5s;
 }
